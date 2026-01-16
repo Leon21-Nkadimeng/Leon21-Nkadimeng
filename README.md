@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leon21-Nkadimeng
 - 👀 I’m interested in backend software development, machine learning, artificial intelligence.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and doing basic JS projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...b
 
