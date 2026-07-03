@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Leon21-Nkadimeng
 - 👀 I’m interested in backend software development, machine learning, artificial intelligence.
-- 🌱 I’m currently learning SpringBoot and doing basic JS projects.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...b
+- 🌱 I’m currently learning Node.js and doing basic JS projects.
+- 📫 How to reach me nkadimengleon@gmail.com.
 
 <!---
 Leon21-Nkadimeng/Leon21-Nkadimeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
