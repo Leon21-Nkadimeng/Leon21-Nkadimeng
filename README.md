@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leon21-Nkadimeng
-- 👀 I’m interested in backend software development, machine learning, artificial intelligence.
-- 🌱 I’m currently learning Node.js and doing basic JS projects.
+- 👀 I’m a backend software developer and aspiring ML and AI engineer.
+- 🌱 I’m currently learning Node.js, Machine Learning fundamentals and doing basic JS projects.
 - 📫 How to reach me nkadimengleon@gmail.com.
 
 <!---
