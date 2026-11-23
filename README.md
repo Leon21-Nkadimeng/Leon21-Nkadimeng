@@ -56,4 +56,3 @@ I'm always interested in connecting with fellow developers, sharing ideas, and l
 
 ---
 
-*"Great software is built one problem, one solution, and one improvement at a time."*
