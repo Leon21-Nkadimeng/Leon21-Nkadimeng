@@ -52,7 +52,7 @@ I'm always interested in connecting with fellow developers, sharing ideas, and l
 
 📧 **Email:** [nkadimengleon@gmail.com](mailto:nkadimengleon@gmail.com)
 
-💼 **LinkedIn:** [Leon Nkadimeng on LinkedIn](https://www.linkedin.com/in/leon-n-291a28204/)
+💼 **LinkedIn:** (<a href="https://www.linkedin.com/in/leon-n-291a28204/" target="_blank">Leon Nkadimeng on LinkedIn</a>)
 
 ---
 
